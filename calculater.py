@@ -98,3 +98,4 @@ btn_9.grid(row=1, column=2, padx=2, pady=2)
 db.grid(row=0, column=0, columnspan=3, padx=10, pady=10)
 
 mw.mainloop()
+print()
